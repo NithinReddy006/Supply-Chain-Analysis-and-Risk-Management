@@ -25,8 +25,8 @@ PROBLEM STATEMENT
 
 Supply chains produce huge amounts of order and delivery data, yet risks such as delays and unprofitable orders often go unnoticed. The data is large, messy, and difficult to interpret without proper processing. This makes it hard for managers to identify the sources of risk and protect service quality and profit.
 
-TEAM NAME IN TEAMS : DA Project Supply chain analysis and risk management
+TEAM NAME IN TEAMS : DA120B_Project Supply chain analysis and risk management
 
-REPOSITORY IN GITHUB : Supply-Chain-Analysis-and-Risk-Management
+REPOSITORY IN GITHUB :DA120B_ Supply-Chain-Analysis-and-Risk-Management
 
 GITHUB URL : https://github.com/NithinReddy006/DA120B_Supply-Chain-Analysis-and-Risk-Management
