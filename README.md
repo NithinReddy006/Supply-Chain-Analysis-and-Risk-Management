@@ -29,4 +29,4 @@ TEAM NAME IN TEAMS : DA Project Supply chain analysis and risk management
 
 REPOSITORY IN GITHUB : Supply-Chain-Analysis-and-Risk-Management
 
-GITHUB URL : https://github.com/NithinReddy006/Supply-Chain-Analysis-and-Risk-Management
+GITHUB URL : https://github.com/NithinReddy006/DA120B_Supply-Chain-Analysis-and-Risk-Management
